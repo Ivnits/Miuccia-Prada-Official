@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: #FFCFD0;
+    text-shadow: 0px 0px 0px #000000;
+}
+table {
+    width: 1000px;
+    background-color: #828282;
+    margin-right: auto;
+    margin-left: auto;
+    color: #F4F4F4;
+}
+h1 {
+    color: #FFCFD0;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-shadow: 500px 500px;
+    font-style: italic;
+    text-align: center;
+    background-color: #5B5A5A;
+}
+tr td h2 {
+    color: #FFCFD0;
+}
+img {
+    width: 500px;
+    height: 600px;
+}
+.image1 {
+    width: 1000px;
+    height: 400px;
+}
